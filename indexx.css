@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+h3{
+    color: rgb(224, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+#a1{
+    color: brown;
+    font-weight: 900;
+}
+span{
+    font-style: italic;
+    text-decoration: underline ;
+}
+#a2{
+    color: brown;
+    letter-spacing: 3px;
+}
+p{
+    color: brown;
+}
